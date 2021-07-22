@@ -1,3 +1,12 @@
+# Live Demo
+https://hiagolf.github.io/live-demo-react-crazy-modal/
+
+# NPM package
+https://www.npmjs.com/package/react-crazy-modal
+
+# Repository
+https://github.com/hiagoLF/react-crazy-modal
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
