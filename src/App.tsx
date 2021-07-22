@@ -29,9 +29,7 @@ function App() {
 
    return (
       <div className="App">
-         <div>This is the app. Do everything you want!</div>
-
-         {/* <CrazyModal
+         <CrazyModal
             open={modalOpen}
             onBackGroundClick={() => setModalOpen(false)}
             backgroundColor="#000"
@@ -41,18 +39,18 @@ function App() {
                   appear: "showByOpacity",
                   disappear: "fadeByOpacity",
                   timingFunction: "ease",
-                  time: 400,
+                  time: 300,
                },
                modal: {
                   appear: animationTypes[0],
                   disappear: animationTypes[1],
                   timingFunction: "ease",
-                  time: 400,
+                  time: 300,
                },
             }}
          >
             <ModalContent onCloseClick={() => setModalOpen(false)} />
-         </CrazyModal> */}
+         </CrazyModal>
 
          <div
             style={{

@@ -9528,6 +9528,11 @@ react-app-polyfill@^2.0.0:
     regenerator-runtime "^0.13.7"
     whatwg-fetch "^3.4.1"
 
+react-crazy-modal@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-crazy-modal/-/react-crazy-modal-1.0.0.tgz#30a4883724cfd43cb10ca0d2ca7ed110b9fd9be7"
+  integrity sha512-vyYVHHOcCPoAEzK2CaNIvZcHIlNv1w1MO7Q3ztGkUNmjevsEDH7yNL/8+o/A935Wf30t5JGbohfg5nzsZ9fmyw==
+
 react-dev-utils@^11.0.3:
   version "11.0.4"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-11.0.4.tgz#a7ccb60257a1ca2e0efe7a83e38e6700d17aa37a"
