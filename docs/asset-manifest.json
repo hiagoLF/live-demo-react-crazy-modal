@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/live-demo-react-crazy-modal/static/css/main.30a12f16.chunk.css",
+    "main.js": "/live-demo-react-crazy-modal/static/js/main.4444c35b.chunk.js",
+    "main.js.map": "/live-demo-react-crazy-modal/static/js/main.4444c35b.chunk.js.map",
+    "runtime-main.js": "/live-demo-react-crazy-modal/static/js/runtime-main.ea97b2c7.js",
+    "runtime-main.js.map": "/live-demo-react-crazy-modal/static/js/runtime-main.ea97b2c7.js.map",
+    "static/js/2.32a25fa7.chunk.js": "/live-demo-react-crazy-modal/static/js/2.32a25fa7.chunk.js",
+    "static/js/2.32a25fa7.chunk.js.map": "/live-demo-react-crazy-modal/static/js/2.32a25fa7.chunk.js.map",
+    "static/js/3.8c281fd2.chunk.js": "/live-demo-react-crazy-modal/static/js/3.8c281fd2.chunk.js",
+    "static/js/3.8c281fd2.chunk.js.map": "/live-demo-react-crazy-modal/static/js/3.8c281fd2.chunk.js.map",
+    "index.html": "/live-demo-react-crazy-modal/index.html",
+    "static/css/main.30a12f16.chunk.css.map": "/live-demo-react-crazy-modal/static/css/main.30a12f16.chunk.css.map",
+    "static/js/2.32a25fa7.chunk.js.LICENSE.txt": "/live-demo-react-crazy-modal/static/js/2.32a25fa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea97b2c7.js",
+    "static/js/2.32a25fa7.chunk.js",
+    "static/css/main.30a12f16.chunk.css",
+    "static/js/main.4444c35b.chunk.js"
+  ]
+}
